@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "LeetCode Submission Protection",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Adds an extra layer of protection to prevent accidental code submissions on LeetCode.",
   "icons": {
     "16": "assets/icons/icon-16.png",
