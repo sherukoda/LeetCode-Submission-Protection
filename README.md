@@ -15,6 +15,9 @@
 
 <p align="center">
   <!-- Replace with real store links after publishing -->
+  <a href="https://chromewebstore.google.com/detail/leetcode-submission-prote/ogcjlpfboamhhkicmcpgkajfjiabmoha">
+    <img alt="Chrome Add-ons" src="https://img.shields.io/badge/Chrome-FF7139?style=for-the-badge&logo=google-chrome&logoColor=white">
+  </a>
   <a href="https://addons.mozilla.org/en-US/firefox/addon/leetcode-submission-protection/">
     <img alt="Firefox Add-ons" src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white">
   </a>
@@ -71,6 +74,7 @@
 
 ### From Store (Recommended)
 
+- [Chrome Add-ons](https://chromewebstore.google.com/detail/leetcode-submission-prote/ogcjlpfboamhhkicmcpgkajfjiabmoha)  
 - [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/leetcode-submission-protection/)  
 - [Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/leetcode-submission-prote/ogkkbklelkhjfchmejdcjiflnjkhemaj)  
 
